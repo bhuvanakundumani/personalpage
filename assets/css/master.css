@@ -31,7 +31,7 @@ body {
 }
 
 #title {
-  font: "Nitti";
+  font-family: "nitti";
   font-size: 40px;
   line-height: 90%;
   color: #F00048;
@@ -48,13 +48,13 @@ body {
 }
 
 #sub {
-  font: "Nitti";
+  font-family: "nitti";
   font-size: 30px;
   color: rgba(127, 140, 141, 1);
 }
 
 #links {
-  font: "Nitti";
+  font-family: "nitti";
   font-size: 35px;
   margin-top: 50px;
   display: flex;
