@@ -31,7 +31,7 @@ body {
 }
 
 #title {
-  font-family: "nitti";
+  font-family: "Nitti";
   font-size: 40px;
   line-height: 90%;
   color: #F00048;
@@ -48,13 +48,13 @@ body {
 }
 
 #sub {
-  font-family: "nitti";
+  font-family: "Nitti";
   font-size: 30px;
   color: rgba(127, 140, 141, 1);
 }
 
 #links {
-  font-family: "nitti";
+  font-family: "Nitti";
   font-size: 35px;
   margin-top: 50px;
   display: flex;
@@ -86,12 +86,6 @@ a:hover {
   height: 100vh;
 }
 
-@font-face {
-  font-family: 'nitti';
-  src: 
-	url('assets/fonts/Nitti-Normal.ttf') 
-  format('truetype');
-}
 
 @media only screen and (max-width: 600px) {
   #middlebanner {
